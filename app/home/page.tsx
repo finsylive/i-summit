@@ -104,7 +104,10 @@ export default function HomePage() {
             <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent animate-shimmer" />
           </h1>
           <p className={`${zenDots.className} text-sm md:text-base mb-4`}>
-            11th – 30th May
+            11th – 30th May pre-event
+          </p>
+          <p className={`${zenDots.className} text-sm md:text-base mb-4`}>
+            15th – 25th June main event
           </p>
 
           <motion.p
